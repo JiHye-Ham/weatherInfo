@@ -29,21 +29,21 @@ React, typeScript, tailwind CSS, FontAwesome(아이콘)
 
 # 설치 및 실행 방법
 
-1. 프로젝트 클론
-  git clone https://github.com/username/weatherInfo.git
+1. 프로젝트 클론<br />
+  git clone https://github.com/username/weatherInfo.git<br />
   cd weatherInfo
   
-2. 패키지 설치
+2. 패키지 설치<br />
    npm install
    
-3. 환경변수 설정
-  REACT_APP_WEATHER_API_KEY=your_api_key_here
+3. 환경변수 설정<br />
+  REACT_APP_WEATHER_API_KEY=your_api_key_here<br />
 *api키는 git-hub에 업로드하지 않았습니다.
 
-4. 개발서버에서 실행
+4. 개발서버에서 실행<br />
   npm run dev
 
-5.브라우저에서 확인
+5. 브라우저에서 확인가능하며 혹은 배포 사이트에서 사용 가능합니다.
 
 # 개선 및 추가 기능 사항
 
